@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\netcentric\bin\Debug\net8.0\netcentric.exe
+C:\Users\A\source\repos\netcentric\bin\Debug\net8.0\netcentric.deps.json
+C:\Users\A\source\repos\netcentric\bin\Debug\net8.0\netcentric.runtimeconfig.json
+C:\Users\A\source\repos\netcentric\bin\Debug\net8.0\netcentric.dll
+C:\Users\A\source\repos\netcentric\bin\Debug\net8.0\netcentric.pdb
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.AssemblyInfo.cs
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.dll
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\refint\netcentric.dll
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.pdb
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\netcentric.genruntimeconfig.cache
+C:\Users\A\source\repos\netcentric\obj\Debug\net8.0\ref\netcentric.dll

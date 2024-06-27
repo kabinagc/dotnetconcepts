@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\source\\repos\\netcentric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\inheritance\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:inheritance\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\inheritance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:inheritance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\staticcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\staticcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\copycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\copycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\parameterizedcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\parameterizedcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\defaultcons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\defaultcons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\constructor\\expconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:constructor\\expconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|c:\\users\\a\\source\\repos\\netcentric\\encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493FDA0F-7275-4FD3-9D78-4D71706A143F}|netcentric.csproj|solutionrelative:encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Inheritance\\Class2.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Class2.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Inheritance\\Class2.cs",
+              "RelativeToolTip": "Inheritance\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:08:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Inheritance\\Class1.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Class1.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Inheritance\\Class1.cs",
+              "RelativeToolTip": "Inheritance\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:02:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticCon.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\StaticCon.cs",
+              "RelativeDocumentMoniker": "Constructor\\StaticCon.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\StaticCon.cs",
+              "RelativeToolTip": "Constructor\\StaticCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:55:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CopyCon.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\CopyCon.cs",
+              "RelativeDocumentMoniker": "Constructor\\CopyCon.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\CopyCon.cs",
+              "RelativeToolTip": "Constructor\\CopyCon.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:36:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParameterizedCon.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\ParameterizedCon.cs",
+              "RelativeDocumentMoniker": "Constructor\\ParameterizedCon.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\ParameterizedCon.cs",
+              "RelativeToolTip": "Constructor\\ParameterizedCon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:27:13.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\TextFile1.txt",
+              "RelativeDocumentMoniker": "Constructor\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\TextFile1.txt",
+              "RelativeToolTip": "Constructor\\TextFile1.txt",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-27T04:19:25.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefaultCons.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\DefaultCons.cs",
+              "RelativeDocumentMoniker": "Constructor\\DefaultCons.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\DefaultCons.cs",
+              "RelativeToolTip": "Constructor\\DefaultCons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:31:00.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\ExpConstructor.cs",
+              "RelativeDocumentMoniker": "Constructor\\ExpConstructor.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Constructor\\ExpConstructor.cs",
+              "RelativeToolTip": "Constructor\\ExpConstructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:36:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Calculator\\Calc.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calc.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Calculator\\Calc.cs",
+              "RelativeToolTip": "Calculator\\Calc.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:01:54.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\netcentric\\Encapsulation\\Person.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Person.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\netcentric\\Encapsulation\\Person.cs",
+              "RelativeToolTip": "Encapsulation\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:57:44.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
